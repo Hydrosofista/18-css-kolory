@@ -1,0 +1,15 @@
+h1 {
+  color: #ff0000;
+}
+
+div.color-xback {
+  background-color: #faebd6;
+}
+
+p#redtext {
+  color: #a42423;
+}
+
+p#bluetext {
+  color:#00008f;
+}
